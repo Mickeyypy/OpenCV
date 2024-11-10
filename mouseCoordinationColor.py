@@ -18,3 +18,4 @@ cv.setMouseCallback("Output",clickPosition)
 cv.waitKey(0)
 cv.destroyAllWindows()
 print(img)
+#idk
